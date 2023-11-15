@@ -2,7 +2,7 @@
 
 ## 💻  About Me
 
-* 💼 **2+ years** of work experience as **Full-Stack** developer in a fast-paced environment.
+* 💼 **3 years** of work experience as **Full-Stack** developer in a fast-paced environment.
 * 🎓 Recent First-Class graduate from the **Univeristy of Glasgow** *(BSc in Computing Science)*
 
 ## 🛠  Tech Familiarity
