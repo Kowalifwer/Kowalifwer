@@ -1,11 +1,16 @@
-![Banner](banner.jpg)
-
 ## 💻  About Me
 
 * 👨‍💻 I enjoy solving various problems and collaborating with others, so feel free to send me a message if you would like to discuss something :)
 
 * 🎓 recent First-Class graduate from the **Univeristy of Glasgow** *(BSc in Computing Science)*
 * 💼 almost **3 years** of work experience as a **Full-Stack** developer, working with Python, Django, JavaScript, AWS and more.
+
+## 📊 Github Stats
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalifwer&layout=donut&include_all_commits=true" alt="Top Languages" height="180px" width="400px">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=kowalifwer" alt="GitHub Streak" height="180px">
+</div>
 
 ## 🛠  Tech Familiarity
 
@@ -16,13 +21,8 @@
 - 🛢 &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## 📊 Github Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kowalifwer)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kowalifwer&layout=compact&show_icons=true&include_all_commits=true)](https://github.com/YasPHP/github-readme-stats)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 💬 Connect with me
 
