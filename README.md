@@ -7,8 +7,8 @@
 
 ## 📊 Github Stats
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalifwer&layout=donut&include_all_commits=true" alt="Top Languages" height="180px" width="400px">
+<div style="display: flex; gap: 25px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowalifwer&layout=donut&include_all_commits=true" alt="Top Languages" height="180px">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=kowalifwer" alt="GitHub Streak" height="180px">
 </div>
 
